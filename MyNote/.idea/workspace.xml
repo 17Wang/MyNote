@@ -52,7 +52,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="670" />
     <option name="y" value="65" />
     <option name="width" value="1075" />
@@ -64,8 +64,6 @@
     </navigator>
     <panes>
       <pane id="AndroidView" />
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -82,18 +80,14 @@
               <item name="MyNote" type="b2602c69:ProjectViewProjectNode" />
               <item name="MyNote" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="MyNote" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MyNote" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MyNote" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="NoteMenu" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -172,11 +166,12 @@
       <workItem from="1528207466790" duration="3462000" />
       <workItem from="1528251017962" duration="6213000" />
       <workItem from="1528770839184" duration="150000" />
+      <workItem from="1539748385735" duration="193000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="82983000" />
+    <option name="totallyTimeSpent" value="83176000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
